@@ -28,6 +28,10 @@ function App() {
           <strong>Pinheiros</strong>
           <span>São Paulo</span>
         </div>
+
+        <a href="" className="enter-app">
+          >
+        </a>
       </div> 
   </div>
   );
