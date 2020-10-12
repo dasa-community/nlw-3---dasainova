@@ -24,10 +24,10 @@ function App() {
           <p>Visite orfanatos e mude o dia dê muitas crianças</p>
         </main>
 
-       {/*  <div className="location">
+        <div className="location">
           <strong>Pinheiros</strong>
           <span>São Paulo</span>
-        </div> */}
+        </div>
 
         <a href="" className="enter-app">
           >
