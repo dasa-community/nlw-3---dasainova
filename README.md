@@ -1,5 +1,3 @@
-Comunidade DasaInova
-
 ![alt text](https://raw.githubusercontent.com/dasa-community/nlw-3---dasainova/main/src/images/comunidade-dasa.jpeg)
 
 
