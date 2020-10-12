@@ -23,7 +23,7 @@ function App() {
 
         <main>
           <h1>Leve felicidade para o mundo</h1>
-          <p>Visite orfanatos e mude o dia dê muitas crianças</p>
+          <p>Visite orfanatos</p>
         </main>
 
         <div className="location">
