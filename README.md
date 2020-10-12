@@ -1,3 +1,6 @@
+![alt text](https://raw.githubusercontent.com/dasa-community/nlw-3---dasainova/main/src/images/comunidade-dasa.jpeg)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
