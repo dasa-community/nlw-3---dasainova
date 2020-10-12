@@ -1,5 +1,6 @@
 import React from 'react';
 import './styles/global.css';
+import './styles/pages/landing.css';
 
 interface TitleProps {
   text: string;
@@ -13,11 +14,8 @@ function Title(props: TitleProps) {
  
 function App() {
   return (
-    <div className="App">
-    <Title text="Titulo 1" />
-    <Title text="Titulo 2" />
-    <Title text="Titulo 3" />
-    <Title text="Titulo 4" />
+    <div id="page-landing">
+   <h1>Hello World</h1>
   </div>
   );
 }
