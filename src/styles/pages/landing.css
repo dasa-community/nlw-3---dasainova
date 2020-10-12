@@ -27,6 +27,12 @@
     line-height: 70px;
     }
 
+    #page-landing .content-wrapper main p {
+        margin-top: 40PX;
+        font-size: 24PX;
+        line-height: 34px;
+        }    
+
 
 .content-wrapper .location {
     position: absolute;
