@@ -20,6 +20,14 @@
     justify-content: space-between;
 }
 
+#page-landing .content-wrapper main h1 {
+    max-width: 350px;
+    font-size: 76px;
+    font-weight: 900;
+    line-height: 70px;
+    }
+
+
 .content-wrapper .location {
     position: absolute;
     right: 0;
@@ -31,3 +39,4 @@
     right: 0;
     bottom: 0; 
 }
+
