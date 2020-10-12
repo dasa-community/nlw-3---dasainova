@@ -22,7 +22,7 @@ const OrphanagesMap: React.FC = () => {
         </header>
 
         <footer>
-          <strong>Suzano</strong>
+          <strong>Pinheiros</strong>
           <span>São Paulo</span>
         </footer>
       </aside>

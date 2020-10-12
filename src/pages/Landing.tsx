@@ -19,7 +19,7 @@ const Landing: React.FC = () => {
         </main>
 
         <div className="location">
-          <strong>Suzano</strong>
+          <strong>Pinheiros</strong>
           <span>São Paulo</span>
         </div>
 
