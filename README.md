@@ -1,8 +1,8 @@
 ![alt text](https://raw.githubusercontent.com/dasa-community/nlw-3---dasainova/main/src/images/comunidade-dasa.jpeg)
 
-## 🚀 Tecnologias
+## 🚀 Technology
 
-Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
