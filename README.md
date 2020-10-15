@@ -1,5 +1,13 @@
 ![alt text](https://raw.githubusercontent.com/dasa-community/nlw-3---dasainova/main/src/images/comunidade-dasa.jpeg)
 
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
