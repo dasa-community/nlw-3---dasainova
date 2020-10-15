@@ -4,6 +4,8 @@
 
 This project was developed using the following technologies:
 
+- [React Native](https://reactnative.dev/docs/getting-started)
+- [React.js](https://pt-br.reactjs.org/docs/getting-started.html)
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
